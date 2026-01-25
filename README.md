@@ -48,13 +48,6 @@
 
 </details>
 
-## Stats · 统计
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=acousma-az&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acousma-az&layout=compact&langs_count=8&hide=html" alt="Top Languages" />
-</p>
 
 ---
 
