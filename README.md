@@ -10,7 +10,7 @@
   <summary><b>中文 / Chinese</b></summary>
 
 ## 关于我
-- 🔭 当前：个人项目与课程设计（数字逻辑、简单外设驱动等）
+- 🔭 当前：个人项目与课程设计
 - 🌱 学习方向：FPGA、Verilog/SystemVerilog、时序约束、仿真与综合
 - 🎯 项目经历：软硬件协同系统设计、FPGA AI加速器设计、数字逻辑设计
 - 🎓 教育：2023 年 9 月至今，安徽大学 — 集成电路设计与集成系统专业 本科
@@ -31,7 +31,7 @@
   <summary><b>English</b></summary>
 
 ## About Me
-- 🔭 Current: personal projects and course work (digital logic, basic peripheral drivers)
+- 🔭 Current: personal projects and course work
 - 🌱 Learning: FPGA, Verilog/SystemVerilog, timing constraints, simulation & synthesis
 - 🎯 Project Experience: HW/SW co-design, FPGA AI accelerator design, digital logic design
 - 🎓 Education: Sep 2023 – present, Anhui University — IC Design & Integrated Systems, Undergraduate
