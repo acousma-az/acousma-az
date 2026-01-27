@@ -25,6 +25,10 @@
 - 📫 GitHub Issues / Discussions：欢迎交流与提问
 - 📧 邮箱（隐私保护）：shy_sun_heyang@163.com
 
+## 最近博客更新
+- 📚基于silvaco TCAD的BJT结构与电学仿真 https://blog.csdn.net/2402_84416851/article/details/157359722?spm=1001.2014.3001.5501
+- 📚基于silvaco TCAD的MOSFET（2D）结构与性能仿真 https://blog.csdn.net/2402_84416851/article/details/157360589?spm=1001.2014.3001.5501
+
 </details>
 
 <details>
@@ -45,6 +49,10 @@
 ## Contact
 - 📫 GitHub Issues / Discussions: happy to connect and help
 - 📧 Email: shy_sun_heyang@163.com
+
+## Recent Blog Posts
+- 📚BJT Structure and Electrical Simulation Based on Silvaco TCAD https://blog.csdn.net/2402_84416851/article/details/157359722?spm=1001.2014.3001.5501
+- 📚MOSFET (2D) Structure and Performance Simulation Based on Silvaco TCAD https://blog.csdn.net/2402_84416851/article/details/157360589?spm=1001.2014.3001.5501
 
 </details>
 
