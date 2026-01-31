@@ -28,7 +28,7 @@
 ## 最近博客更新
 - 📚基于silvaco TCAD的BJT结构与电学仿真 https://blog.csdn.net/2402_84416851/article/details/157359722?spm=1001.2014.3001.5501
 - 📚基于silvaco TCAD的MOSFET（2D）结构与性能仿真 https://blog.csdn.net/2402_84416851/article/details/157360589?spm=1001.2014.3001.5501
-
+- 📚FPGA电子时钟设计 https://blog.csdn.net/2402_84416851/article/details/157588213?spm=1001.2014.3001.5502
 </details>
 
 <details>
@@ -53,7 +53,7 @@
 ## Recent Blog Posts
 - 📚BJT Structure and Electrical Simulation Based on Silvaco TCAD https://blog.csdn.net/2402_84416851/article/details/157359722?spm=1001.2014.3001.5501
 - 📚MOSFET (2D) Structure and Performance Simulation Based on Silvaco TCAD https://blog.csdn.net/2402_84416851/article/details/157360589?spm=1001.2014.3001.5501
-
+- 📚FPGA digital clock design https://blog.csdn.net/2402_84416851/article/details/157588213?spm=1001.2014.3001.5502
 </details>
 
 
