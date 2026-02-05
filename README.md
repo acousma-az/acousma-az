@@ -11,15 +11,15 @@
 
 ## 关于我
 - 🔭 当前：个人项目与课程设计
-- 🌱 学习方向：FPGA、Verilog/SystemVerilog、时序约束、仿真与综合
-- 🎯 项目经历：软硬件协同系统设计、AI加速器设计、数字逻辑设计
+- 🌱 学习方向：AI 加速器架构设计、CPU 设计、SoC 系统设计
+- 🎯 项目经历：软硬件协同AI加速器设计、数字逻辑设计
 - 🎓 教育：2023 年 9 月至今，安徽大学 — 集成电路设计与集成系统专业 本科
 
 ## 技能栈
 - HDL：Verilog、SystemVerilog（基础）
 - 工具：VCS、Verdi、Vivado、ModelSim、Quartus II
 - 语言：C/C++
-- 版本控制：Git / GitHub
+
 
 ## 联系方式
 - 📫 GitHub Issues / Discussions：欢迎交流与提问
@@ -36,15 +36,15 @@
 
 ## About Me
 - 🔭 Current: personal projects and course work
-- 🌱 Learning: FPGA, Verilog/SystemVerilog, timing constraints, simulation & synthesis
-- 🎯 Project Experience: HW/SW co-design, AI accelerator design, digital logic design
+- 🌱 Learning:AI Accelerator Architecture Design, CPU Design, and SoC System Design
+- 🎯 Project Experience: Hardware–Software Co-Designed AI Accelerator and Digital Logic Design Projects
 - 🎓 Education: Sep 2023 – present, Anhui University — IC Design & Integrated Systems, Undergraduate
 
 ## Skills
 - HDL: Verilog, SystemVerilog (basic)
 - Tools: VCS, Verdi, Vivado, ModelSim, Quartus II
 - Languages: C/C++
-- Version Control: Git / GitHub
+
 
 ## Contact
 - 📫 GitHub Issues / Discussions: happy to connect and help
