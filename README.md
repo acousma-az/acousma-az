@@ -16,7 +16,7 @@
 - 🎓 教育：2023 年 9 月至今，安徽大学 — 集成电路设计与集成系统专业 本科
 
 ## 技能栈
-- HDL：Verilog、SystemVerilog（基础）、Spinel hdl（基于Scala）
+- HDL：Verilog、SystemVerilog（基础）
 - 工具：VCS、Verdi、Vivado、ModelSim、Quartus II
 - 语言：C/C++
 
@@ -41,7 +41,7 @@
 - 🎓 Education: Sep 2023 – present, Anhui University — IC Design & Integrated Systems, Undergraduate
 
 ## Skills
-- HDL: Verilog, SystemVerilog (basic)、Spinel hdl（based on Scala）
+- HDL: Verilog, SystemVerilog (basic)
 - Tools: VCS, Verdi, Vivado, ModelSim, Quartus II
 - Languages: C/C++
 
